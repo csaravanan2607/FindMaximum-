@@ -1,5 +1,5 @@
 # Ex - 7
-# Find the maximum of a list of numbers :
+# Find the maximum of a list of numbers 
 # Date : 17/10/24
 ## Aim:
 To write a program to find the maximum of a list of numbers.
