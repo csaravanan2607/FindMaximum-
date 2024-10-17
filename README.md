@@ -38,12 +38,12 @@ def max_marks(list1):
 
 
 
-## Output:
-# To find the maximum of marks using the list method sort.
+# Output:
+## To find the maximum of marks using the list method sort.
 ![EXP-6_ CR- Maximum of a list of number_ Attempt review _ SEC - Google Chrome 17-10-2024 17_14_51](https://github.com/user-attachments/assets/d5928b6a-8a7a-4cff-9a3e-4ecc0ebb4ad5)
-# To find the maximum marks using the list method max().
+## To find the maximum marks using the list method max().
 ![EXP-6_ CR- Maximum of a list of number_ Attempt review _ SEC - Google Chrome 17-10-2024 17_15_01](https://github.com/user-attachments/assets/6664ca3f-aa21-4e36-8ac1-3676b45b02c2)
-# To find the maximum marks without using builtin functions.
+## To find the maximum marks without using builtin functions.
 ![EXP-6_ CR- Maximum of a list of number_ Attempt review _ SEC - Google Chrome 17-10-2024 17_15_05](https://github.com/user-attachments/assets/f4f4c845-3688-4f6f-973a-f1b055a14e24)
 
 ## Result:
