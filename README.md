@@ -1,16 +1,16 @@
-# Ex - 7
-# Find the maximum of a list of numbers 
+# Ex - 7 :
+# Find the maximum of a list of numbers :
 # Date : 17/10/24
-## Aim:
+## Aim :
 To write a program to find the maximum of a list of numbers.
-## Equipment’s required:
+## Equipment’s required :
 1.	Hardware – PCs
 2.	Anaconda – Python 3.7 Installation / Moodle-Code Runner
-## Algorithm:
+## Algorithm :
 1.	Get the list of marks as input
 2.	Use the sort() function or max() function or use the for loop to find the maximum mark.
 3.	Return the maximum value
-# Program:
+# Program :
 ## i) To find the maximum of marks using the list method sort.
 ```Python
 def max_marks(marks):
@@ -38,7 +38,7 @@ def max_marks(list1):
 
 
 
-# Output:
+# Output :
 ## i) To find the maximum of marks using the list method sort.
 ![EXP-6_ CR- Maximum of a list of number_ Attempt review _ SEC - Google Chrome 17-10-2024 17_14_51](https://github.com/user-attachments/assets/d5928b6a-8a7a-4cff-9a3e-4ecc0ebb4ad5)
 ## ii) To find the maximum marks using the list method max().
@@ -46,5 +46,5 @@ def max_marks(list1):
 ## iii) To find the maximum marks without using builtin functions.
 ![EXP-6_ CR- Maximum of a list of number_ Attempt review _ SEC - Google Chrome 17-10-2024 17_15_05](https://github.com/user-attachments/assets/f4f4c845-3688-4f6f-973a-f1b055a14e24)
 
-## Result:
+## Result :
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
